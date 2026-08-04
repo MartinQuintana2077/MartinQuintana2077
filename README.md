@@ -34,15 +34,15 @@ Aquí puedes ver algunos de los proyectos en los que he trabajado:
 
 ##  Certificaciones
 
-*Certificado de diseño de software.
-*Certificado de programación
-*básica.
-*Certificado de soporte informático.
-*certificado de IT Essentials: PC
-*Hardware and Software.
-*Cisco Networking Academy –
+* Certificado de diseño de software.
+* Certificado de programación
+* básica.
+* Certificado de soporte informático.
+* certificado de IT Essentials: PC
+* Hardware and Software.
+* Cisco Networking Academy –
  CCNA S1.
-*Cisco Networking Academy –
+* Cisco Networking Academy –
  CCNA S2.
 
 
