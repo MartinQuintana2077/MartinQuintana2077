@@ -21,8 +21,9 @@
 
 Aquí puedes ver algunos de los proyectos en los que he trabajado:
 
-<div align="center">
-  <a href="https://github.com/MartinQuintana2077/secscan">
+<a href="https://github.com/MartinQuintana2077/secscan" target="_blank" class="project-link">
+    Ver repositorio
+</a>
     
   </a>
   <a href="https://github.com/MartinQuintana2077/marbrayon">
