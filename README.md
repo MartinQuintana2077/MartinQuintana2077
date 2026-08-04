@@ -77,6 +77,8 @@ Aquí puedes ver algunos de los proyectos en los que he trabajado:
  <br>
 <a>Correo: martinquintanapersonal@gmail.com</a>
 <br>
+<br/>
+<br/>
 <div align="center">
   <i>"Codificar esta divertido."</i><br>
    ¡No dudes en explorar mis repositorios!
