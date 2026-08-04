@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=¡Hola!%20Soy%20Martin&fontSize=80&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=¡Hola!%20Soy%20Martin%20Quintana&fontSize=80&animation=fadeIn&fontAlignY=35" alt="Header" />
   
   <h3 align="center">Desarrollador de Software </h3>
 
