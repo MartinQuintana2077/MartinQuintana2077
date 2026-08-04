@@ -72,8 +72,10 @@ Aquí puedes ver algunos de los proyectos en los que he trabajado:
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
  <br>
+ <br>
  <a href="mailto:martinquintanapersonal@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
+ <br>
+<a>Correo: martinquintanapersonal@gmail.com</a>
 <br>
 <div align="center">
   <i>"Codificar esta divertido."</i><br>
