@@ -71,10 +71,10 @@ Aquí puedes ver algunos de los proyectos en los que he trabajado:
   <a href="https://www.linkedin.com/in/martin-quintana-a8a4702a6" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+ <br>
  <a href="mailto:martinquintanapersonal@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    📧 martinquintanapersonal@gmail.com
 </a>
-</div>
 
 <br>
 <div align="center">
