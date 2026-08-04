@@ -78,6 +78,6 @@ Aquí puedes ver algunos de los proyectos en los que he trabajado:
 
 <br>
 <div align="center">
-  <i>"El código es poesía escrita para máquinas."</i><br>
+  <i>"Codificar esta divertido."</i><br>
    ¡No dudes en explorar mis repositorios!
 </div>
