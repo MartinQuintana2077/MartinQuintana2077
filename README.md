@@ -6,49 +6,63 @@
   <p align="center">
     Transformando ideas en código. Siempre aprendiendo, siempre creando.
   </p>
-
-  <p align="center">
-    <!-- Reemplaza el # por el enlace a tu LinkedIn -->
-    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <!-- Reemplaza el # por tu correo -->
-    <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
 </div>
 
 ---
 
-### 👨‍💻 Sobre Mí
+## 👨‍💻 Sobre Mí
 
 * 🚀 Actualmente enfocado en construir proyectos increíbles y pulir mis habilidades de desarrollo.
 * 🧠 Explorando constantemente nuevas herramientas y tecnologías modernas.
-* 👯 Buscando colaborar en proyectos interesantes de código abierto.
 * ⚡ Dato curioso: Disfruto enfrentar retos técnicos complejos y encontrar soluciones elegantes.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+## 💻 Proyectos
+
+Aquí puedes ver algunos de los proyectos en los que he trabajado:
 
 <div align="center">
-  <!-- Aquí puedes agregar o quitar iconos. Lista completa en: https://github.com/tandpfun/skill-icons -->
+  <a href="https://github.com/MartinQuintana2077/secscan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinQuintana2077&repo=secscan&theme=radical&hide_border=true&bg_color=0D1117" alt="secscan repo" />
+  </a>
+  <a href="https://github.com/MartinQuintana2077/marbrayon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinQuintana2077&repo=marbrayon&theme=radical&hide_border=true&bg_color=0D1117" alt="marbrayon repo" />
+  </a>
+</div>
+
+---
+
+## 📜 Certificaciones
+
+*(Aquí puedes listar tus cursos y diplomas. Por ejemplo:)*
+
+- 🎓 **[Nombre de tu Certificación]** - [Institución o Plataforma]
+- 🎓 **[Curso de Desarrollo Web]** - [Institución o Plataforma]
+
+---
+
+## 🛠️ Habilidades
+
+<div align="center">
+  <!-- Puedes agregar o quitar iconos editando esta línea. -->
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode" />
 </div>
 <br/>
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
+## 📬 Contacto
+
+¿Tienes un proyecto en mente o quieres colaborar? ¡Contáctame!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MartinQuintana2077&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinQuintana2077&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <!-- Reemplaza los enlaces # por tus links reales -->
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tu-correo@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinQuintana2077&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
----
+<br>
 <div align="center">
   <i>"El código es poesía escrita para máquinas."</i><br>
   ⭐️ ¡No dudes en explorar mis repositorios!
