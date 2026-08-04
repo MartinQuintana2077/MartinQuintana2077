@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=¡Hola!%20Soy%20Martin%20Quintana&fontSize=65&animation=fadeIn&fontAlignY=35" alt="Header" />
   
-  <h3 align="center">Desarrollador de Software 🚀</h3>
+  <h3 align="center">Estudiante de Ingeniería en Informática | Desarrollador en formación</h3>
 
   <p align="center">
     Transformando ideas en código. Siempre aprendiendo, siempre creando.
