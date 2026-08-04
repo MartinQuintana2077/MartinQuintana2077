@@ -17,7 +17,7 @@
 
 ---
 
-## 💻 Proyectos
+##  Proyectos
 
 Aquí puedes ver algunos de los proyectos en los que he trabajado:
 
@@ -53,7 +53,7 @@ Aquí puedes ver algunos de los proyectos en los que he trabajado:
 
 ---
 
-## 🛠️ Habilidades
+##  Habilidades
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,unity,git,github,vscode" />
@@ -62,14 +62,14 @@ Aquí puedes ver algunos de los proyectos en los que he trabajado:
 
 ---
 
-## 📬 Contacto
+##  Contacto
 
 ¿Tienes un proyecto en mente o quieres colaborar? ¡Contáctame!
 
 <div align="center">
   <!-- Reemplaza los enlaces # por tus links reales -->
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:tu-correo@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:tu-correo@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />martinquintanapersonal@gmail.com</a>
 </div>
 
 <br>
