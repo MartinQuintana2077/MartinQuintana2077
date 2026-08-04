@@ -34,10 +34,17 @@ Aquí puedes ver algunos de los proyectos en los que he trabajado:
 
 ##  Certificaciones
 
-*(Aquí puedes listar tus cursos y diplomas. Por ejemplo:)*
+*Certificado de diseño de software.
+*Certificado de programación
+*básica.
+*Certificado de soporte informático.
+*certificado de IT Essentials: PC
+*Hardware and Software.
+*Cisco Networking Academy –
+ CCNA S1.
+*Cisco Networking Academy –
+ CCNA S2.
 
--  **[Nombre de tu Certificación]** - [Institución o Plataforma]
--  **[Curso de Desarrollo Web]** - [Institución o Plataforma]
 
 ---
 
