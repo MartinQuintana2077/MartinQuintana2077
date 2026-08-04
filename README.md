@@ -52,7 +52,7 @@ Aquí puedes ver algunos de los proyectos en los que he trabajado:
 
 <div align="center">
   <!-- Puedes agregar o quitar iconos editando esta línea. -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=¡Hola!%20Soy%20Martin%20Quintana&fontSize=65&animation=fadeIn&fontAlignY=35" alt="Header" />
 </div>
 <br/>
 
