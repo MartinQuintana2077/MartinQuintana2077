@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=¡Hola!%20Soy%20Martin%20Quintana&fontSize=65&animation=fadeIn&fontAlignY=35" alt="Header" />
   
-  <h3 align="center">Estudiante de Ingeniería en Informática | Desarrollador en formación</h3>
+  <h3 align="center">Estudiante de Ingeniería en Informática | Desarrollador principiante</h3>
 
   <p align="center">
     Transformando ideas en código. Siempre aprendiendo, siempre creando.
@@ -23,10 +23,10 @@ Aquí puedes ver algunos de los proyectos en los que he trabajado:
 
 <div align="center">
   <a href="https://github.com/MartinQuintana2077/secscan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinQuintana2077&repo=secscan&theme=radical&hide_border=true&bg_color=0D1117" alt="secscan repo" />
+    
   </a>
   <a href="https://github.com/MartinQuintana2077/marbrayon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinQuintana2077&repo=marbrayon&theme=radical&hide_border=true&bg_color=0D1117" alt="marbrayon repo" />
+   
   </a>
 </div>
 
