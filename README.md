@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=¡Hola!%20Soy%20Martin&fontSize=80&animation=fadeIn&fontAlignY=35" alt="Header" />
   
-  <h3 align="center">Desarrollador de Software 🚀</h3>
+  <h3 align="center">Desarrollador de Software </h3>
 
   <p align="center">
     Transformando ideas en código. Siempre aprendiendo, siempre creando.
@@ -10,11 +10,10 @@
 
 ---
 
-## 👨‍💻 Sobre Mí
+## Sobre Mí
 
-* 🚀 Actualmente enfocado en construir proyectos increíbles y pulir mis habilidades de desarrollo.
-* 🧠 Explorando constantemente nuevas herramientas y tecnologías modernas.
-* ⚡ Dato curioso: Disfruto enfrentar retos técnicos complejos y encontrar soluciones elegantes.
+* Soy estudiante de cuarto año de Ingeniería en Informática y actualmente realizo mi práctica profesional. A lo largo de mi formación he trabajado en proyectos de desarrollo de software, aplicaciones web, redes y análisis de datos, además de obtener certificaciones de Cisco Networking Academy. Me considero una persona responsable, con facilidad para aprender, resolver problemas y adaptarme a nuevos desafíos, siempre con el objetivo de seguir creciendo tanto personal como profesionalmente.
+
 
 ---
 
@@ -33,12 +32,12 @@ Aquí puedes ver algunos de los proyectos en los que he trabajado:
 
 ---
 
-## 📜 Certificaciones
+##  Certificaciones
 
 *(Aquí puedes listar tus cursos y diplomas. Por ejemplo:)*
 
-- 🎓 **[Nombre de tu Certificación]** - [Institución o Plataforma]
-- 🎓 **[Curso de Desarrollo Web]** - [Institución o Plataforma]
+-  **[Nombre de tu Certificación]** - [Institución o Plataforma]
+-  **[Curso de Desarrollo Web]** - [Institución o Plataforma]
 
 ---
 
@@ -65,5 +64,5 @@ Aquí puedes ver algunos de los proyectos en los que he trabajado:
 <br>
 <div align="center">
   <i>"El código es poesía escrita para máquinas."</i><br>
-  ⭐️ ¡No dudes en explorar mis repositorios!
+   ¡No dudes en explorar mis repositorios!
 </div>
